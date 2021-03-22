@@ -1,0 +1,17 @@
+.typing-challenge-container{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+/*flex-grow-1 is used to use as much space as you can within the container*/
+.details-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.typewriter-container{
+    display: flex;
+    flex-grow: 1;
+}

@@ -1,0 +1,14 @@
+.test-letter-notattempted{
+    color:orangered;
+}
+.test-letter-correct{
+    color:greenyellow;
+}
+.test-letter-incorrect{
+    color:red;
+}
+.individual-char{
+    font-size: 19px;
+    line-height: 19px;
+    font-family: sans-serif;
+}
