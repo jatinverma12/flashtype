@@ -10,7 +10,7 @@ const Nav=()=>{
                 <p className="flash-logo-text">FlashType</p>
             </div>
             <div className="nav-right">
-                <a className="code-link" target="_blank" href="#">CODE</a>
+                <a className="code-link" target="_blank" href="https://github.com/jatinverma12/flashtype">CODE</a>
             </div>
         </div>
     )
